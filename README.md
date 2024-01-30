@@ -23,24 +23,16 @@ ___
 
 ## Apresentação
 
-Olá, sou ...
+Olá, sou Gustavo Lauria, estudante de Ciencia da Computação na **UFF** (Universidade Federal Fluminense) aqui em Niterói onde resido. 
+O Programa de Bolsas da Compass é o meu primeiro trabalho na área, mas ja possuo um conhecimento prévio em algum assuntos que vamos tratar ao longo do programa, (*SQL, Linux, Git, ...*). Animado para aprender ainda mais nesse projeto !
 
 ## Sprints 
 
 1. [Sprint 1](Sprint%201/README.md)
-2. [Sprint 2](Sprint%202/README.md)
-3. [Sprint 3](Sprint%203/README.md)
-4. ...
 
-## Desafio
 
-1. [Desafio Final](Desafio/README.md)
 
 
 ___
 
 
-# Dicas
-
-- [Mark Down - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
-- [Github - Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
