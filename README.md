@@ -32,11 +32,11 @@ O Programa de Bolsas da Compass é o meu primeiro trabalho na área, mas ja poss
 
 ## Metodos_Ageis
 
-1. [Metodos Ageis](Metodos_Ageis/README.md)
+1. [Metodos Ageis](Metodos%20Ageis/README.md)
 
 ## Desafio Final
 
-1. [Desafio_Final](Desafio_Final/README.md)
+1. [Desafio_Final](Desafio%20Final/README.md)
 ___
 
 
