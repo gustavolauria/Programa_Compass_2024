@@ -1,101 +1,101 @@
-#Resumo Linux
+# Resumo Linux
 
-###cd (Change Directory):
+### cd (Change Directory):
 
--Serve para mudar de diretórios.
-1. cd -: Voltar para o diretório anterior.
-2. cd ~: Mover para a home do usuário atual.
+- Serve para mudar de diretórios.
+    cd -: Voltar para o diretório anterior.
+    cd ~: Mover para a home do usuário atual.
 
-###ls (List):
+### ls (List):
 
--Exibe o conteúdo do diretório atual.
-ls -l: Lista detalhada.
-ls -a: Mostra arquivos ocultos.
-ls -h: Torna o tamanho dos arquivos mais legível.
+- Exibe o conteúdo do diretório atual.
+    ls -l: Lista detalhada.
+    ls -a: Mostra arquivos ocultos.
+    ls -h: Torna o tamanho dos arquivos mais legível.
 
-###clear:
+### clear:
 
--Limpa a tela do terminal, removendo o histórico de comandos anteriores.
+- Limpa a tela do terminal, removendo o histórico de comandos anteriores.
 
-###cat (Concatenate):
+### cat (Concatenate):
 
--Exibe o conteúdo de arquivos de texto.
-Pode ser usado para concatenar e exibir múltiplos arquivos: cat file1.txt file2.txt.
+- Exibe o conteúdo de arquivos de texto.
+    Pode ser usado para concatenar e exibir múltiplos arquivos: cat file1.txt file2.txt.
 
-###touch:
+### touch:
 
--Cria arquivos vazios ou atualiza o carimbo de data/hora de arquivos existentes.
+- Cria arquivos vazios ou atualiza o carimbo de data/hora de arquivos existentes.
 
-###man (Manual):
+### man (Manual):
 
--Abre o manual online para um comando específico.
-man ls exibirá o manual para o comando 'ls'.
-Use as setas para rolar, 'q' para sair.
+- Abre o manual online para um comando específico.
+    man ls exibirá o manual para o comando 'ls'.
+    Use as setas para rolar, 'q' para sair.
 
-###mkdir (Make Directory):
+### mkdir (Make Directory):
 
--Cria um novo diretório.
-mkdir nome_do_diretorio.
+- Cria um novo diretório.
+    mkdir nome_do_diretorio.
 
-###rm (Remove):
+### rm (Remove):
 
--Remove arquivos ou diretórios, use com cuidado, pois a remoção é irreversível.
-rm arquivo.txt ou rm -r diretorio.
+- Remove arquivos ou diretórios, use com cuidado, pois a remoção é irreversível.
+    rm arquivo.txt ou rm -r diretorio.
 
-###rmdir (Remove Directory):
+### rmdir (Remove Directory):
 
--Remove diretórios vazios.
-Exemplo: rmdir nome_do_diretorio.
+- Remove diretórios vazios.
+    rmdir nome_do_diretorio.
 
-###cp (Copy):
+### cp (Copy):
 
--Copia arquivos ou diretórios.
-cp arquivo.txt destino/ ou cp -r diretorio/ destino/ (para cópia recursiva).
+- Copia arquivos ou diretórios.
+    cp arquivo.txt destino/ ou cp -r diretorio/ destino/ (para cópia recursiva).
 
-###mv (Move):
+### mv (Move):
 
--Move ou renomeia arquivos e diretórios.
-mv arquivo.txt novo_nome.txt ou mv arquivo.txt diretorio_destino/.
+- Move ou renomeia arquivos e diretórios.
+    mv arquivo.txt novo_nome.txt ou mv arquivo.txt diretorio_destino/.
 
-###apt-get:
+### apt-get:
 
--Utilizado para gerenciar pacotes.
-Instalação de pacotes: sudo apt-get install nome_do_pacote.
-Atualização do sistema: sudo apt-get update && sudo apt-get upgrade.
+- Utilizado para gerenciar pacotes.
+    Instalação de pacotes: sudo apt-get install nome_do_pacote.
+    Atualização do sistema: sudo apt-get update && sudo apt-get upgrade.
 
-###head:
+### head:
 
--Exibe as primeiras linhas de um arquivo de texto.
-head -n 10 arquivo.txt (mostra as primeiras 10 linhas).
+- Exibe as primeiras linhas de um arquivo de texto.
+    head -n 10 arquivo.txt (mostra as primeiras 10 linhas).
 
-###tail:
+### tail:
 
--Exibe as últimas linhas de um arquivo de texto.
-tail -n 20 arquivo.txt (mostra as últimas 20 linhas).
+- Exibe as últimas linhas de um arquivo de texto.
+    tail -n 20 arquivo.txt (mostra as últimas 20 linhas).
 
-###grep:
+### grep:
 
--Filtra linhas de texto que correspondem a um padrão.
-grep "palavra" arquivo.txt.
+- Filtra linhas de texto que correspondem a um padrão.
+    grep "palavra" arquivo.txt.
 
-###find:
+### find:
 
--Procura arquivos ou diretórios em uma hierarquia.
-find /caminho -name "nome_arquivo".
+- Procura arquivos ou diretórios em uma hierarquia.
+    find /caminho -name "nome_arquivo".
 
-###locate:
+### locate:
 
--Localiza rapidamente a localização de arquivos no sistema.
-locate nome_arquivo.
+- Localiza rapidamente a localização de arquivos no sistema.
+    locate nome_arquivo.
 
-##Nano:
+## Nano:
 Abrir um arquivo: nano nome_do_arquivo
 Salvar alterações: Pressione Ctrl + O, depois pressione Enter.
 Sair do Nano: Pressione Ctrl + X.
 Desfazer: Alt + U.
 Refazer: Alt + E.
 
-##Vim:
+## Vim:
 Abrir um arquivo: vim nome_do_arquivo.
 Modo de Inserção: Pressione i para entrar no modo de inserção (para começar a digitar).
 Salvar e Sair: No modo de comando, digite :w para salvar e :q para sair.
