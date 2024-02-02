@@ -2,6 +2,8 @@
 
 -Nesse arquivo será armazenado o passo a passo, comentado e com prints, da execução do desafio da Sprint.
 
+## Passo a Passo
+
 1. Primeiro temos o download do arquivo *dados_de_vendas*, e já aqui temos uma pequena alteração (comunicada ao SM), onde o arquivo possuia um erro em uma de suas linhas que foi alterado, e portanto sera referido a frente como dados_de_vendas_fix.
 
 2. Temos entao a criacao do diretorio **ecommerce** onde foi inserido o arquivo *dados_de_vendas_fix*.
