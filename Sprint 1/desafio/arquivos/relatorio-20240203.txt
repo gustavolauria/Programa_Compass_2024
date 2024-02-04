@@ -1,0 +1,14 @@
+Data: 2024/02/04 18:06
+Primeiro registro: 19/10/2022
+Ultimo registro: 01/01/2024
+Total de itens: 39
+Head: id,produto,quantidade,preço,data
+1,saia,2,29.90,19/10/2022
+3,sapato,3,100.00,20/10/2022
+5,cinto,8,15.00,05/11/2022
+6,camisa,7,40.00,06/01/2023
+8,tênis,4,120.00,08/01/2023
+9,bone,12,10.00,09/01/2023
+10,casaco,2,150.00,10/01/2023
+11,mochila,9,60.00,11/01/2023
+13,caderno,18,8.00,13/01/2023
