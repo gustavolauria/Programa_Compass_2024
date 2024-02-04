@@ -7,13 +7,13 @@ O Programa de Bolsas da Compass é o meu primeiro trabalho na área, mas ja poss
 
 1. [Sprint 1](Sprint%201/README.md)
 
-## Metodos Ageis
+## Metodos Ágeis
 
-1. [Metodos Ageis](Metodos%20Ageis/README.md)
+1. [Metodos Ágeis](Metodos%20Ageis/README.md)
 
 ## Desafio Final
 
-1. [Desafio_Final](Desafio%20Final/README.md)
+1. [Desafio Final](Desafio%20Final/README.md)
 ___
 
 
