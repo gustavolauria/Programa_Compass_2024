@@ -15,10 +15,7 @@
 
 - Aqui serão armazenados todos os certificados obtidos na Sprint
 
-![Curso Linux](certificados/Certificado_Linux.jpg)
-
-- Certificado do Curso Git
-![Curso Git](certificados/Certificado_Git.jpg)
+![Certificados](certificados)
 
 # Resumos
 
