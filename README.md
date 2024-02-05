@@ -7,6 +7,8 @@ O Programa de Bolsas da Compass é o meu primeiro trabalho na área, mas ja poss
 
 1. [Sprint 1](Sprint%201/README.md)
 
+2. [Sprint 2](Sprint%202/README.md)
+
 ## Metodos Ágeis
 
 1. [Metodos Ágeis](Metodos%20Ageis/README.md)
