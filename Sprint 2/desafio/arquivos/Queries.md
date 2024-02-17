@@ -2,6 +2,9 @@
 
 - Aqui estao os comandos realizados para chegarmos no resultado final do desafio, se quiserem criar as tabelas e dimensoes exatamente como eu fiz, pode-se criar um script em algum programa que rode SQLlite e rodar os comandos abaixo para ter o mesmo resultado
 
+## COMANDOS
+
+```SQL
 CREATE TABLE locacoes (
     idLocacao INT PRIMARY KEY,
     idCliente INT,
@@ -121,7 +124,7 @@ SELECT
     idVendedor
 FROM locacoes;
 
--- Dimensão Cliente
+
 CREATE VIEW dim_cliente AS
 SELECT
     idCliente,
@@ -131,7 +134,7 @@ SELECT
     paisCliente
 FROM clientes;
 
--- Dimensão Carro
+
 CREATE VIEW dim_carro AS
 SELECT
     idCarro,
@@ -143,7 +146,7 @@ SELECT
     tipoCombustivel
 FROM carros;
 
--- Dimensão Vendedor
+
 CREATE VIEW dim_vendedor AS
 SELECT
     idVendedor,
@@ -165,3 +168,5 @@ SELECT DISTINCT
     STRFTIME('%d', dataEntrega) AS diaEntrega,
     STRFTIME('%H:%M:%S', dataEntrega) AS horaEntrega 
 FROM locacoes
+
+```
