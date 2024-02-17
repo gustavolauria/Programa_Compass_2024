@@ -25,5 +25,12 @@
 
 ![Resumo SQL](resumos/resumoSQL.md)
 
+# Udemy
+
+- Todos os exercícios feitos na plataforma Udemy nessa Sprint
+
+![Udemy](udemy)
+
+
 
 
