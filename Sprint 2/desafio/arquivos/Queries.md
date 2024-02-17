@@ -1,3 +1,7 @@
+# Descrição
+
+- Aqui estao os comandos realizados para chegarmos no resultado final do desafio, se quiserem criar as tabelas e dimensoes exatamente como eu fiz, pode-se criar um script em algum programa que rode SQLlite e rodar os comandos abaixo para ter o mesmo resultado
+
 CREATE TABLE locacoes (
     idLocacao INT PRIMARY KEY,
     idCliente INT,
@@ -131,7 +135,7 @@ FROM clientes;
 CREATE VIEW dim_carro AS
 SELECT
     idCarro,
-    classiCarro,
+    chassiCarro,
     marcaCarro,
     modeloCarro,
     anoCarro,
