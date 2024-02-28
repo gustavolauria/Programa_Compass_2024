@@ -17,7 +17,6 @@
 
 ![Certificados](certificados)
 
-*OBS.: O certificado da AWS foi emitido em branco, já estou conversando com o suporte para corrigir esse problema*
 
 # Resumos
 
