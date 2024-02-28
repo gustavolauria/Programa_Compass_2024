@@ -21,7 +21,7 @@
 
 - Parte do conteúdo que foi aprendido durante essa Sprint
 
-![Resumo SQL](resumos/resumoSQL.md)
+![Resumo Python](resumos/resumoPython.md)
 
 # Udemy
 
