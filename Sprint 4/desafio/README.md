@@ -24,4 +24,5 @@
 6. Após a criação do arquivo mascarar.py, fazemos o *build* da imagem, como mostra o print <img src="img/Etapa4.3.2.jpg" width="60%"> 
 
 
-7. E rodamos o nosso container, <img src="img/Etapa4.3.3.jpg" width="60%">
+7. E rodamos o nosso container
+<img src="img/Etapa4.3.3.jpg" width="60%">
