@@ -10,7 +10,7 @@
 1. Primeiro, baixamos o arquivo *carguru.py* que nos foi fornecido e iniciamos o ambiente do Docker, já que iremos utilizá-lo em breve.
 
 
-2. Com o ambiente Docker funcionando, fazemos o *build* da imagem do nosso arquivo utilizando um **Dockerfile**, como mostra o print <img src="img/Etapa4.1.1.jpg" width="50%"> e com a imagem pronta podemos rodar o nosso container, ![Etapa4.1.2.jpg](img/Etapa4.1.2.jpg) 
+2. Com o ambiente Docker funcionando, fazemos o *build* da imagem do nosso arquivo utilizando um **Dockerfile**, como mostra o print <img src="img/Etapa4.1.1.jpg" width="60%"> e com a imagem pronta podemos rodar o nosso container, <img src="img/Etapa4.1.2.jpg" width="60%"> 
 
 
 3. A segunda etapa é na verdade uma pergunta, 'É possível reutilizar containers ?', que foi respondida no ![Etapa4.2.md](arquivos_carguru/Etapa4.2.md). Em resumo, sim, é possível, e foi algo recorrente ao longo do desafio, para fazer os testes nos containers.
@@ -19,4 +19,4 @@
 4. Indo para Etapa 3, agora tivemos que criar um programa do zero, utilizando a biblioteca **hashlib** pra imprimir o hash de qualquer string dada.
 
 
-5. Após a criação do arquivo mascarar.py, fazemos o *build* da imagem, como mostra o print ![Etapa4.3.2.jpg](img/Etapa4.3.2.jpg)  e rodamos o nosso container, ![Etapa4.3.3.jpg](img/Etapa4.3.3.jpg)
+5. Após a criação do arquivo mascarar.py, fazemos o *build* da imagem, como mostra o print <img src="img/Etapa4.3.2.jpg" width="60%">  e rodamos o nosso container, <img src="img/Etapa4.3.3.jpg" width="60%">
