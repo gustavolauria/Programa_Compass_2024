@@ -2,7 +2,7 @@
 
 - Todos os arquivos gerados e feitos para a conclusão do Desafio dessa Sprint estão na pasta **arquivos** dentro do diretório **desafio**
 
-![Arquivos](desafio/arquivos)
+![Arquivos](desafio/arquivos_carguru)
 
 # Evidências
 
