@@ -10,7 +10,7 @@
 1. Primeiro, baixamos o arquivo *carguru.py* que nos foi fornecido e iniciamos o ambiente do Docker, já que iremos utilizá-lo em breve.
 
 
-2. Com o ambiente Docker funcionando, fazemos o *build* da imagem do nosso arquivo utilizando um **Dockerfile**, como mostra o print ![Etapa4.1.1.jpg](img/Etapa4.1.1.jpg) e com a imagem pronta podemos rodar o nosso container, ![Etapa4.1.2.jpg](img/Etapa4.1.2.jpg) 
+2. Com o ambiente Docker funcionando, fazemos o *build* da imagem do nosso arquivo utilizando um **Dockerfile**, como mostra o print <img src="img/Etapa4.1.1.jpg" width="50%"> e com a imagem pronta podemos rodar o nosso container, ![Etapa4.1.2.jpg](img/Etapa4.1.2.jpg) 
 
 
 3. A segunda etapa é na verdade uma pergunta, 'É possível reutilizar containers ?', que foi respondida no ![Etapa4.2.md](arquivos_carguru/Etapa4.2.md). Em resumo, sim, é possível, e foi algo recorrente ao longo do desafio, para fazer os testes nos containers.
