@@ -13,7 +13,7 @@
 
 3. Temos tambem que criar a tabela baseada nos dados do nosso bucket, para fazermos as consultas. <img src="img/cria_tabela.jpg" width="60%">
 
-4. Fazemos uma consulta teste, a fim de checar se tudo esta correndo bem. <img src="img/teste.jpg" width="60%">
+4. Fazemos uma consulta teste, a fim de checar se tudo está correndo bem. <img src="img/teste.jpg" width="60%">
 
 5. O passo final, é criar uma consulta que lista os 3 nomes mais usados em cada década desde o 1950 até hoje. Para isso, foi feita inicialmente uma query teste, que retorna apenas os 3 nomes mais usados no periodo selecionado. Essa query serve para termos certeza de que estamos pegando os nomes certos.  <img src="img/top3_teste.jpg" width="60%">
 
