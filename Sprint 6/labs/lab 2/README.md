@@ -19,4 +19,4 @@
 <img src="img/top3_teste.jpg" width="60%">
 
 6. Finalmente criamos a query que retorna os nomes mais utilizados de cada década. 
-<img src="img/top3_completp.jpg" width="60%">
+<img src="img/top3_completo.jpg" width="60%">

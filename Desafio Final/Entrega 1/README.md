@@ -2,7 +2,7 @@
 
 - Nesse arquivo será armazenado o passo a passo da primeira entrega do **Desafio Final**
 
-- Para ter acesso aos arquivos e prints da execução dessa etapa: [Entrega I](Sprint%206/desafio/README.md)
+- Para ter acesso aos arquivos e prints da execução dessa etapa: [Entrega I](../../Sprint%206/desafio/README.md)
 
 ## Passo a Passo
 
