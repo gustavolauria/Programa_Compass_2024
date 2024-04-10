@@ -7,7 +7,8 @@
 
 1. Utilizando o **S3** criamos o nosso bucket, *'bucket.lab.aws.s3'*, que será utilizado para hospedar um site.
 
-2. Como podemos ver abaixo, ao acessarmos o endpoint do nosso bucket, recebemos um erro de 'acesso negado', já que o nosso bucket não está com as configurações corretas. <img src="img/Primeiro_Acesso.jpg" width="60%">
+2. Como podemos ver abaixo, ao acessarmos o endpoint do nosso bucket, recebemos um erro de 'acesso negado', já que o nosso bucket não está com as configurações corretas.
+ <img src="img/Primeiro_Acesso.jpg" width="60%">
 
 3. Mudamos as configurações do nosso bucket, para habilitar o acesso público, mas agora temos um outro erro, que nos mostra que o arquivo *index.html* não foi encontrado, isso porque ainda não o adicionamos no bucket. <img src="img/Segundo_Acesso.jpg" width="60%">
 
