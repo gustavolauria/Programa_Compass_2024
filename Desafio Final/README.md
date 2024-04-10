@@ -1,20 +1,13 @@
 
-# Instruções
+# Descrição 
 
-
-Neste arquivo você irá apresentar suas entregas referentes ao desafio final. 
-O desafio final está dividido em 4 entregas, sendo a primeira a ser realizada ao final da Sprint 7. Utilize o diretório "Desafio" para organizar seus artefatos e este README.md para fazer referência aos arquivos de código-fonte e demais entregáveis solicitados.
-
+- Aqui ficarão armazenadas todas as entregas do Desafio Final, com a explicação detalhada de cada etapa e os links para as Sprints onde cada parte foi realizada.
 
 # Entregas
 
 
 1. ...
-[Entrega I](etapa-1/entrega.txt)
-
-
-2. ...
-[Entrega II](etapa-2/entrega.txt)
+[Entrega I](Entrega%201/README.md)
 
 
 

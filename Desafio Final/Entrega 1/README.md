@@ -1,9 +1,8 @@
 # Descrição
 
-- Nesse arquivo será armazenado o passo a passo, comentado e com prints, da execução do desafio da Sprint e todos os códigos fonte utilizados.
+- Nesse arquivo será armazenado o passo a passo da primeira entrega do **Desafio Final**
 
-- O diretório **arquivos** conterá todos os arquivos gerados no desafio, sejam eles de texto *(.txt)*, de codigo fonte *(.sh)* , etc.
-- O diretório **img** conterá todos os prints tirados ao longo da execução do desafio.
+- Para ter acesso aos arquivos e prints da execução dessa etapa: [Entrega I](Sprint%206/desafio/README.md)
 
 ## Passo a Passo
 
@@ -16,3 +15,13 @@
 - Se sim, a partir de que momento (década de 70 ? 80 ?) ? 
 - Se não, o sucesso do tema é devido as grandes franquias (Star Wars, Senhor dos Aneis) ?
 - Se não, existe pelo menos um aumento em relação a outros genêros (Romance, Drama, Terror) ? 
+
+2. Criamos o bucket que irá armazenar os nossos dados *data-lake-desafio-final*
+
+3. Fazemos a configuração das nossas credenciais na máquina local utilizando o AWS CLI. Elas serão necessárias na hora de subirmos os arquivos para o bucket do S3.
+
+4. Montamos o nosso script *carregar.py*, que fará o upload dos arquivos para o nosso bucket no S3, e montamos também o *dockerfile*, que fará essa tranferência.
+
+5. Utilizando então o Docker, criamos uma imagem do nosso programa e dos nossos arquivos, e rodamos num volume que possua as nossas credenciais AWS, para que o Docker tenha acesso a AWS.
+
+6. Entrando agora na AWS, e acessando o S3, podemos ver o nosso bucket *data-lake-desafio-final*, com os arquivos *movies.csv* e *series.csv* nas devidas pastas.
