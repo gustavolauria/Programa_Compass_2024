@@ -5,7 +5,7 @@
 - O diretório **arquivos** conterá todos os arquivos gerados no desafio, sejam eles de texto *(.txt)*, de codigo fonte *(.sh)* , etc.
 - O diretório **img** conterá todos os prints tirados ao longo da execução do desafio.
 
-## Passo a Passo
+## Análise
 
 1. O primeiro passo para o começo desse desafio é definir qual será o tipo de análise que pretende ser feita. A análise será feita em torno dos temas Sci-Fi/Fantasia, e de acordo com as informações que futuramente iremos obter dos dados, pretendemos chegar a algumas conclusões em relação aos seguintes questionamentos:
 
@@ -17,12 +17,14 @@
 - Se não, o sucesso do tema é devido as grandes franquias (Star Wars, Senhor dos Aneis) ?
 - Se não, existe pelo menos um aumento em relação a outros genêros (Romance, Drama, Terror) ? 
 
-2. Criamos o bucket que irá armazenar os nossos dados *data-lake-desafio-final*
+## Passo a Passo
 
-3. Fazemos a configuração das nossas credenciais na máquina local utilizando o AWS CLI. Elas serão necessárias na hora de subirmos os arquivos para o bucket do S3.
+1. Criamos o bucket que irá armazenar os nossos dados *data-lake-desafio-final*
 
-4. Montamos o nosso script *carregar.py*, que fará o upload dos arquivos para o nosso bucket no S3, e montamos também o *dockerfile*, que fará essa tranferência.
+2. Fazemos a configuração das nossas credenciais na máquina local utilizando o AWS CLI. Elas serão necessárias na hora de subirmos os arquivos para o bucket do S3.
 
-5. Utilizando então o Docker, criamos uma imagem do nosso programa e dos nossos arquivos, e rodamos num volume que possua as nossas credenciais AWS, para que o Docker tenha acesso a AWS.
+3. Montamos o nosso script *carregar.py*, que fará o upload dos arquivos para o nosso bucket no S3, e montamos também o *dockerfile*, que fará essa tranferência.
 
-6. Entrando agora na AWS, e acessando o S3, podemos ver o nosso bucket *data-lake-desafio-final*, com os arquivos *movies.csv* e *series.csv* nas devidas pastas.
+4. Utilizando então o Docker, criamos uma imagem do nosso programa e dos nossos arquivos, e rodamos num volume que possua as nossas credenciais AWS, para que o Docker tenha acesso a AWS.
+
+5. Entrando agora na AWS, e acessando o S3, podemos ver o nosso bucket *data-lake-desafio-final*, com os arquivos *movies.csv* e *series.csv* nas devidas pastas.
