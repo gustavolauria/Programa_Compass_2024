@@ -17,6 +17,6 @@
 
 4. Com o arquivo em mãos, executamos o nosso script, que nos retorna a quantidade de cada palavra da nossa página.
 
-<img src="img/script.jpg" width="80%">
+<img src="img/script.jpg" width="100%">
 
-<img src="img/resposta.jpg" width="50%">
+<img src="img/resposta.jpg" width="20%">
