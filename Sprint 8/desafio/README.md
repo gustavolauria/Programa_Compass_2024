@@ -24,7 +24,7 @@
 
 7. Fazemos também a adição de uma nova coluna *profits*(lucro), que é a diferença entre a bilheteria(*revenue*) e o orçamento(*budget*). Esse dado será bem importante para nossa futura análise.
 
-8. Finalmente, fazemos a exportação em formato *parquet* para o bucket no S3. Essa exportação deveria ser particionada por alguma data relevante, fosse ela o ano de lançamento do filme, ou a data em que ele foi ingerido para o S3, mas como estamos trabalhando com um volume de dados muito pequeno(menos de 1MB), esse particionamento por data foi julgado não necessário, e foi deixado apenas o particionamento automático da função *write.parquet* do Spark, que particiona em 4 o arquivoo.
+8. Finalmente, fazemos a exportação em formato *parquet* para o bucket no S3. Essa exportação deveria ser particionada por alguma data relevante, fosse ela o ano de lançamento do filme, ou a data em que ele foi ingerido para o S3, mas como estamos trabalhando com um volume de dados muito pequeno(menos de 1MB), esse particionamento por data foi julgado não necessário, e foi deixado apenas o particionamento automático da função *write.parquet* do Spark, que particiona em 4 o arquivo.
 
 - *Output Final:*
 <img src="img/logs_json.jpg" width="60%">
