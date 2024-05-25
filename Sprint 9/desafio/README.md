@@ -19,9 +19,9 @@
 
 <img src="img/fato_movie.jpg" width="60%">
 
-<img src="img/dim_time.jpg" width="60%">
+<img src="img/dim_time.jpg" width="30%">
 
-<img src="img/dim_sub-genre.jpg" width="60%">
+<img src="img/dim_sub-genre.jpg" width="30%">
 
 5. Com a nossa camada criada, podemos então criar e rodar um *Crawler*, que pegará toda a informação das nossas tabelas e usará para popular o **AWS Data Catalog**, com as nossas tabelas.
 
