@@ -24,4 +24,4 @@
 
 6. Além disso, foram montados gráficos e KPIs que mostram alguns valores relevantes que abrangem quase todo o periodo analisado, e que podem nos trazer informações relevantes.
 
-<img src="../../Sprint%2010/desafio/img/graf.jpg" width="60%">
+<img src="../../Sprint%2010/desafio/img/graf.jpg" width="50%">
