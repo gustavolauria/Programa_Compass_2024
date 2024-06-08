@@ -1,6 +1,6 @@
 # Descrição
 
-- Nesse arquivo será armazenado o passo a passo da primeira entrega do **Desafio Final**
+- Nesse arquivo será armazenado o passo a passo da segunda entrega do **Desafio Final**
 
 - Para ter acesso aos arquivos e prints da execução dessa etapa: [Entrega II](../../Sprint%207/desafio/README.md)
 

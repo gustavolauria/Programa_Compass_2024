@@ -1,6 +1,6 @@
 # Descrição
 
-- Nesse arquivo será armazenado o passo a passo da primeira entrega do **Desafio Final**
+- Nesse arquivo será armazenado o passo a passo da terceira entrega do **Desafio Final**
 
 - Para ter acesso aos arquivos e prints da execução dessa etapa: [Entrega III](../../Sprint%208/desafio/README.md)
 
