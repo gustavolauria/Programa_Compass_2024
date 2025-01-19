@@ -92,7 +92,7 @@ valores_distintos = obter_valores_distintos_com_filtro(caminho_para_csv)
 
 headers = {
     "accept": "application/json",
-    "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIwZjRmYjY0NDk4NTQwMDBmZmI0OTUxZTAzNGM0NDgwNSIsInN1YiI6IjY2MjE5OTMyZTY0MGQ2MDE4NmMzOTBjOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.d2iH6DG4awALsAMqF7L_zSpQUy2Tdhc8CZK7VNhPMzI"
+    "Authorization": "Bearer ###replace"
 }
 
 pasta_saida = 'respostas_api/'
